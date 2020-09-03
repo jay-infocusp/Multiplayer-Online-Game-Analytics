@@ -1,4 +1,4 @@
-# Big Data As A Service (BDaaS) and Function As A Service (FaaS) in Online Multiplayer Survival Games
+# Big Data As A Service (BDaaS) and Function As A Service (FaaS) in Online Multiplayer Survival Games.
 
 ## Abstract  
 With the advent of cloud computing and big data, more and more services are emerging on the internet. The introduction of online games, huge amounts of data are available. In this project, we discuss the implementation of services which we call BDaaS (Big Data as a service) and Function as a Service (FaaS), where we perform analytics on data retrieved through an online multiplayer game called CS GO. First, we introduce our problem statement. Next, we discuss the architecture of our system. Furthermore, we discuss the platform on which our system was implemented. Finally, we share the implementation details. 
